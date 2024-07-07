@@ -8,49 +8,49 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Ethix-MD&LJAmiXYm",
       "required": true,
-      "value": ""
+      "value": "Ethix-MD&LJAmiXYm"
     },
     "MODE": {
-      "description": "mode public or self",
+      "description": "public",
       "required": true,
       "value": "public"
     },
     "AUTO_STATUS_SEEN": {
-      "description": "make it true if you want bot to view status",
+      "description": "true",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_READ": {
-      "description": "make it true if you want bot to read message",
+      "description": "true",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_TYPING": {
-      "description": "make it true if you want bot to show typing",
+      "description": "true",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_RECORDING": {
-      "description": "make it true if you want bot to show recording audio",
+      "description": "true",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
-      "description": "make it true if you want bot to show always online",
+      "description": "true",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_BLOCK": {
-      "description": "make it true if you want bot to auto block only 212 numbers",
+      "description": "true",
       "required": false,
       "value": ""
     },
     "REJECT_CALL": {
-      "description": "make it true if you want to reject call",
+      "description": "true",
       "required": false,
-      "value": ""
+      "value": "true"
     }
     },
     "buildpacks": [
